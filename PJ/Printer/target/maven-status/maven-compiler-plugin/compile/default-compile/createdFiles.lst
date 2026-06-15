@@ -1,0 +1,7 @@
+com\mycompany\printer\IFax.class
+com\mycompany\printer\Tester.class
+com\mycompany\printer\IMachine.class
+com\mycompany\printer\MultiFuncMachine.class
+com\mycompany\printer\OldPrinter.class
+com\mycompany\printer\IPrinter.class
+com\mycompany\printer\IScanner.class
